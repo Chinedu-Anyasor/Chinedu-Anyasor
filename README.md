@@ -16,7 +16,7 @@ resolution, hereby ensuring quality, and speeding up delivery.
 
 🌱 I’m currently learning Automation testing
 
-👯 I’m looking to collaborate on any product for quality and usable product
+👯 I’m looking to collaborate on any project
 
 👨‍💻 All of my projects are available at https://www.linkedin.com/in/chinedu-anyasor-830569236/
 
